@@ -1,22 +1,14 @@
-# demo-nuxt-test
+# Nuxt Demo App
 
-> My polished Nuxt.js project
+Demo Project part of <a href="https://vue.ac" target="_blank">Vue Academy Workshop</a> in 2020.
 
-## Build Setup
+## Project setup
 
-``` bash
-# install dependencies
-$ npm run install
+You need to restore the npm dependencies first:  
+Run `npm install`
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## Try it!
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+Run `npm run serve` for a dev server.  
+The app is running on `http://localhost:3000/` and will automatically reload if you change any of the source files.
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
